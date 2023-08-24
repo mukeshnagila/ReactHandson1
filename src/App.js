@@ -1,7 +1,7 @@
 // import ClassComponent from './component/ClassComponent';
 // import FunctionComponent from './component/FunctionComponent';
 import ButtonCompo from './style/ButtonCompo';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './style/style.css';
 
 function App() {
